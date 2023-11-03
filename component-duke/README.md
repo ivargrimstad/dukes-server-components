@@ -1,1 +1,1 @@
-# Dukes Server Components
+# Component Duke
