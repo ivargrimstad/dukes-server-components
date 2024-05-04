@@ -41,8 +41,8 @@ nbactions.xml
 .DS_Store
 
 # dependencies
-/node_modules
-/.pnp
+./node_modules
+./.pnp
 .pnp.js
 
 # testing
