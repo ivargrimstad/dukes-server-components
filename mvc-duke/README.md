@@ -1,1 +1,1 @@
-# Component Duke
+# MVC Duke
