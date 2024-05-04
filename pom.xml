@@ -16,6 +16,6 @@
     </licenses>
 
     <modules>
-        <module>component-duke</module>
+        <module>mvc-duke</module>
     </modules>
 </project>
